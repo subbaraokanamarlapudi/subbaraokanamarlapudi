@@ -253,7 +253,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 28/08/2021, 22:47
+Last generated: 28/08/2021, 23:44
 </div>
 <div class="stdin"><span class="ps1-path">subbaraokanamarlapudi@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>subbaraokanamarlapudi</b> registered=1m, uid=5527, gid=0
   contributed to 2 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -272,13 +272,13 @@ Last generated: 28/08/2021, 22:47
   <b>    0</b> repositories starred
   <b>    2</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">subbaraokanamarlapudi@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 2 repositories - 5.93 MB
+<div class="stdin"><span class="ps1-path">subbaraokanamarlapudi@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 2 repositories - 6 MB
 -r--  <b>    2</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>    3</b>  watchers
 dr-x  <b>    0</b>  packages
 </div>
-<footer>Connection reset by 222.188.158.111</footer></pre>
+<footer>Connection reset by 79.167.215.9</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
